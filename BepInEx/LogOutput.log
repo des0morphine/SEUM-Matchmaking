@@ -1,0 +1,168 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - Seum (3/1/2026 3:23:51 AM)
+[Info   :   BepInEx] Running under Unity v2018.3.7.10360018
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.17020
+[Info   :   BepInEx] Supports SRE: False
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugins to load
+[Warning:   BepInEx] Plugin [SEUM Multiplayer 0.3.0] targets a wrong version of BepInEx (5.4.20.0) and might not work until you update
+[Info   :   BepInEx] Loading [SEUM Multiplayer 0.3.0]
+[Info   :SEUM Multiplayer] === SEUM Multiplayer v0.3 Loading ===
+[Info   :SEUM Multiplayer] Harmony patches applied successfully.
+[Info   :SEUM Multiplayer] [MP] MultiplayerManager created
+[Info   :SEUM Multiplayer] [JOIN] Early join handler ready
+[Info   :SEUM Multiplayer] === SEUM Multiplayer Ready ===
+[Info   :SEUM Multiplayer] Use MULTIPLAYER button in Main Menu or ESC menu
+[Message:   BepInEx] Chainloader startup complete
+[Info   :SEUM Multiplayer] [ELO-MM] Auth ticket ready (246 bytes)
+[Info   :SEUM Multiplayer] [ELO-MM] Creating ranked lobby...
+[Info   :SEUM Multiplayer] [NET] Transport initialized (P2P). IsHost=True
+[Info   :SEUM Multiplayer] [LOBBY] Creating lobby for 2 players (type=k_ELobbyTypePrivate)...
+[Info   :SEUM Multiplayer] [LOBBY] Lobby created! ID: 109775245126299340
+[Info   :SEUM Multiplayer] [LOBBY] Invite friends through Steam Overlay (Shift+Tab)
+[Info   :SEUM Multiplayer] [ELO-MM] Ranked lobby created: 109775245126299340
+[Info   :SEUM Multiplayer] [ELO-MM] Invited TallestLemon to lobby
+[Info   :SEUM Multiplayer] [ELO-MM] Lobby ID reported to server
+[Info   :SEUM Multiplayer] [LOBBY] TallestLemon joined the lobby
+[Info   :SEUM Multiplayer] [ELO-MM] TallestLemon joined ranked lobby
+[Info   :SEUM Multiplayer] [NET] Connecting to TallestLemon...
+[Info   :SEUM Multiplayer] [MP] Peer connected: TallestLemon
+[Info   :SEUM Multiplayer] [MP] Ping from TallestLemon
+[Info   :SEUM Multiplayer] [MP] Ping from TallestLemon
+[Info   :SEUM Multiplayer] [MP] Pong from TallestLemon
+[Info   :SEUM Multiplayer] [MP] Pong from TallestLemon
+[Info   :SEUM Multiplayer] [RACE] Host starting: level=183 mutator=0 workshop=False
+[Info   :SEUM Multiplayer] [RACE] Loading: level=183 mutator=0 workshop=False wsId=0
+[Info   :SEUM Multiplayer] [MP] Scene loaded: Game
+[Info   :SEUM Multiplayer] [RACE] Scene loaded, level=183
+[Info   :SEUM Multiplayer] [RACE] Restart blocked during countdown
+[Info   :SEUM Multiplayer] [MP] Ranked HUD trim: toggling 1 vanilla Hud bool field(s).
+[Info   :SEUM Multiplayer] [RACE] GO!
+[Info   :SEUM Multiplayer] [RACE] Auto-started.
+[Info   :SEUM Multiplayer] [MP] TallestLemon finished in 9.644s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 9.619s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] TallestLemon finished in 9.619s
+[Info   :SEUM Multiplayer] [RACE] Ranked: times within 100ms — +20s overtime.
+[Info   :SEUM Multiplayer] [MP] TallestLemon finished in 9.610s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 9.615s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] Sent finish: 9.599s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [ELO-MM] Round 1 winner: 76561199058697076
+[Info   :SEUM Multiplayer] [RACE] Host starting: level=122 mutator=0 workshop=False
+[Info   :SEUM Multiplayer] [RACE] Loading: level=122 mutator=0 workshop=False wsId=0
+[Info   :SEUM Multiplayer] [RACE] GO!
+[Info   :SEUM Multiplayer] [RACE] Auto-started.
+[Info   :SEUM Multiplayer] [MP] TallestLemon finished in 10.921s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 10.663s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] TallestLemon finished in 10.751s
+[Info   :SEUM Multiplayer] [MP] TallestLemon finished in 10.711s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [RACE] Ranked: times within 100ms — +20s overtime.
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [ELO-MM] Round 2 winner: 76561199058697076
+[Info   :SEUM Multiplayer] [ELO-MM] Match result display ended — leaving lobby.
+[Info   :SEUM Multiplayer] [LOBBY] Leaving lobby
+[Info   :SEUM Multiplayer] [MP] Disconnecting...
+[Info   :SEUM Multiplayer] [NET] Shutting down...
+[Info   :SEUM Multiplayer] [ELO-MM] Creating ranked lobby...
+[Info   :SEUM Multiplayer] [NET] Transport initialized (P2P). IsHost=True
+[Info   :SEUM Multiplayer] [LOBBY] Creating lobby for 2 players (type=k_ELobbyTypePrivate)...
+[Info   :SEUM Multiplayer] [LOBBY] Lobby created! ID: 109775245126762903
+[Info   :SEUM Multiplayer] [LOBBY] Invite friends through Steam Overlay (Shift+Tab)
+[Info   :SEUM Multiplayer] [ELO-MM] Ranked lobby created: 109775245126762903
+[Info   :SEUM Multiplayer] [ELO-MM] Invited ▼アウターマインズ to lobby
+[Info   :SEUM Multiplayer] [ELO-MM] Lobby ID reported to server
+[Info   :SEUM Multiplayer] [ELO-MM] Re-sending ranked lobby invite (retry 1)
+[Info   :SEUM Multiplayer] [ELO-MM] Invited ▼アウターマインズ to lobby
+[Info   :SEUM Multiplayer] [LOBBY] ▼アウターマインズ joined the lobby
+[Info   :SEUM Multiplayer] [ELO-MM] ▼アウターマインズ joined ranked lobby
+[Info   :SEUM Multiplayer] [NET] Connecting to ▼アウターマインズ...
+[Info   :SEUM Multiplayer] [MP] Peer connected: ▼アウターマインズ
+[Info   :SEUM Multiplayer] [MP] Ping from ▼アウターマインズ
+[Info   :SEUM Multiplayer] [MP] Ping from ▼アウターマインズ
+[Info   :SEUM Multiplayer] [MP] Pong from ▼アウターマインズ
+[Info   :SEUM Multiplayer] [MP] Pong from ▼アウターマインズ
+[Info   :SEUM Multiplayer] [RACE] Host starting: level=15 mutator=0 workshop=False
+[Info   :SEUM Multiplayer] [RACE] Loading: level=15 mutator=0 workshop=False wsId=0
+[Info   :SEUM Multiplayer] [MP] Scene loaded: Game
+[Info   :SEUM Multiplayer] [RACE] Scene loaded, level=15
+[Info   :SEUM Multiplayer] [RACE] Restart blocked during countdown
+[Info   :SEUM Multiplayer] [RACE] GO!
+[Info   :SEUM Multiplayer] [RACE] Auto-started.
+[Info   :SEUM Multiplayer] [MP] Sent finish: 15.332s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] ▼アウターマインズ finished in 15.658s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 15.131s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] ▼アウターマインズ finished in 15.440s
+[Info   :SEUM Multiplayer] [ELO-MM] Round 1 winner: 76561199058697076
+[Info   :SEUM Multiplayer] [RACE] Host starting: level=5 mutator=0 workshop=False
+[Info   :SEUM Multiplayer] [RACE] Loading: level=5 mutator=0 workshop=False wsId=0
+[Info   :SEUM Multiplayer] [RACE] GO!
+[Info   :SEUM Multiplayer] [RACE] Auto-started.
+[Info   :SEUM Multiplayer] [MP] ▼アウターマインズ finished in 6.216s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 6.179s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] Sent finish: 6.067s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] ▼アウターマインズ finished in 6.207s
+[Info   :SEUM Multiplayer] [ELO-MM] Round 2 winner: 76561199058697076
+[Info   :SEUM Multiplayer] [ELO-MM] Match result display ended — leaving lobby.
+[Info   :SEUM Multiplayer] [LOBBY] Leaving lobby
+[Info   :SEUM Multiplayer] [MP] Disconnecting...
+[Info   :SEUM Multiplayer] [NET] Shutting down...
+[Info   :SEUM Multiplayer] [ELO-MM] Creating ranked lobby...
+[Info   :SEUM Multiplayer] [NET] Transport initialized (P2P). IsHost=True
+[Info   :SEUM Multiplayer] [LOBBY] Creating lobby for 2 players (type=k_ELobbyTypePrivate)...
+[Info   :SEUM Multiplayer] [LOBBY] Lobby created! ID: 109775245127279390
+[Info   :SEUM Multiplayer] [LOBBY] Invite friends through Steam Overlay (Shift+Tab)
+[Info   :SEUM Multiplayer] [ELO-MM] Ranked lobby created: 109775245127279390
+[Info   :SEUM Multiplayer] [ELO-MM] Invited tonic to lobby
+[Info   :SEUM Multiplayer] [ELO-MM] Lobby ID reported to server
+[Info   :SEUM Multiplayer] [LOBBY] tonic joined the lobby
+[Info   :SEUM Multiplayer] [ELO-MM] tonic joined ranked lobby
+[Info   :SEUM Multiplayer] [NET] Connecting to tonic...
+[Info   :SEUM Multiplayer] [MP] Peer connected: tonic
+[Info   :SEUM Multiplayer] [MP] Ping from tonic
+[Info   :SEUM Multiplayer] [MP] Ping from tonic
+[Info   :SEUM Multiplayer] [MP] Pong from tonic
+[Info   :SEUM Multiplayer] [MP] Pong from tonic
+[Info   :SEUM Multiplayer] [RACE] Host starting: level=14 mutator=0 workshop=False
+[Info   :SEUM Multiplayer] [RACE] Loading: level=14 mutator=0 workshop=False wsId=0
+[Info   :SEUM Multiplayer] [MP] Scene loaded: Game
+[Info   :SEUM Multiplayer] [RACE] Scene loaded, level=14
+[Info   :SEUM Multiplayer] [RACE] Restart blocked during countdown
+[Info   :SEUM Multiplayer] [RACE] GO!
+[Info   :SEUM Multiplayer] [RACE] Auto-started.
+[Info   :SEUM Multiplayer] [MP] Sent finish: 10.766s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] tonic finished in 10.791s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [RACE] Ranked: times within 100ms — +20s overtime.
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [ELO-MM] Round 1 winner: 76561199058697076
+[Info   :SEUM Multiplayer] [RACE] Host starting: level=121 mutator=0 workshop=False
+[Info   :SEUM Multiplayer] [RACE] Loading: level=121 mutator=0 workshop=False wsId=0
+[Info   :SEUM Multiplayer] [RACE] GO!
+[Info   :SEUM Multiplayer] [RACE] Auto-started.
+[Info   :SEUM Multiplayer] [MP] tonic finished in 5.385s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 4.141s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [MP] tonic finished in 4.722s
+[Info   :SEUM Multiplayer] [MP] Sent finish: 4.131s
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [SAFETY] Blocked leaderboard submit
+[Info   :SEUM Multiplayer] [ELO-MM] Round 2 winner: 76561199058697076
+[Info   :SEUM Multiplayer] [ELO-MM] Match result display ended — leaving lobby.
+[Info   :SEUM Multiplayer] [LOBBY] Leaving lobby
+[Info   :SEUM Multiplayer] [MP] Disconnecting...
+[Info   :SEUM Multiplayer] [NET] Shutting down...
