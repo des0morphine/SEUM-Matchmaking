@@ -18,6 +18,17 @@ Play ranked duels, gain or lose ELO, climb through tiers, track your stats, matc
 3. Click the "Find Match" button on the website dashboard.
 4. Complete the map ban phase. The system will automatically handle lobby creation and connection.
 
+## Media and Previews
+
+### Dashboard and ELO Tracking
+![Dashboard](https://cdn.imgchest.com/files/17fb1c8de734.png)
+
+### Match History
+![Match History](https://cdn.imgchest.com/files/5436bb0f699c.png)
+
+### Player Profiles and Statistics
+![Player Profile](https://cdn.imgchest.com/files/a6d457626547.png)
+
 ---
 
 ## Technical Specifications and Requirements
