@@ -20,13 +20,13 @@ Play ranked duels, gain or lose ELO, climb through tiers, track your stats, matc
 
 ## Media and Previews
 
-### Dashboard and ELO Tracking
+### In-game Rounds Preview
 ![Dashboard](https://cdn.imgchest.com/files/17fb1c8de734.png)
 
-### Match History
+### Victory Screen
 ![Match History](https://cdn.imgchest.com/files/5436bb0f699c.png)
 
-### Player Profiles and Statistics
+### SEUM.ONLINE/ELO Player Profiles and ELO Leaderboards
 ![Player Profile](https://cdn.imgchest.com/files/a6d457626547.png)
 
 ---
